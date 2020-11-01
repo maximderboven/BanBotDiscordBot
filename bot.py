@@ -3,7 +3,6 @@ intents = discord.Intents()
 intents.members = True
 intents.guilds = True
 intents.presences = True
-#NzU3NTEyNjQ0MzgxOTAwODMw.X2heoA.EaYNkIqFsOIZpYxKKWAslLz8PvY
 TOKEN = ""
 SKIP_BOTS = False
 fetch_offline_members = True
